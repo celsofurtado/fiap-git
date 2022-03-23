@@ -1,1 +1,2 @@
-Este é o arquivo 1..
+O arquivo 01 está sendo usado para teste.
+Estou trabalhando com o Git.
